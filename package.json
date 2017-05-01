@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-celeri",
+  "version": "1.0.0",
+  "description": "ESLint rules used by celeri projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celeri-server/eslint-config-celeri.git"
+  },
+  "keywords": [
+    "eslint",
+    "celeri"
+  ],
+  "author": "James Brumond <james@jbrumond.me> (http://www.jbrumond.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celeri-server/eslint-config-celeri/issues"
+  },
+  "homepage": "https://github.com/celeri-server/eslint-config-celeri#readme",
+  "peerDependencies": {
+    "eslint": ">=3"
+  }
+}
